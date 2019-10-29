@@ -1,5 +1,5 @@
 ## Hydrus Network (Client and Server)
-
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/3d65e79bfa914031854b712024de092e)](https://www.codacy.com/manual/DonaldTsang/hydrus_old?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=DonaldTsang/hydrus_old&amp;utm_campaign=Badge_Grade)
 The hydrus network client is an application written for Anon and other internet-fluent media nerds who have large image/swf/webm collections. It browses with tags instead of folders, a little like a *booru on your desktop. Tags and files can be anonymously shared through custom servers that any user may run. Everything is free, and the source code is included with the release. It is developed for Windows, but fairly functional builds for Linux and OS X are released at the same time.
 
 I am continually working on the software and try to put out a new release every Wednesday by 8pm Eastern.
